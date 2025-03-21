@@ -43,6 +43,7 @@ header {
   margin-bottom: 20px;
   margin-top: 20px;
   width: 100%;
+  gap: 10px;
 }
 
 header .label {
